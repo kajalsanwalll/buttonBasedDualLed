@@ -1,4 +1,4 @@
-# Button Controlled Dual LED 💡🔴
+# Button Controlled Dual LED 💡
 
 This Arduino project controls two LEDs with a button:
 - When the button is **pressed**, LED1 blinks
@@ -18,6 +18,3 @@ This Arduino project controls two LEDs with a button:
 ## 🧪 Simulation
 Try it on Wokwi: [https://wokwi.com/projects/431204022634545153](https://wokwi.com/projects/431204022634545153)
 
----
-
-Made with love 🫶 by Kajal
